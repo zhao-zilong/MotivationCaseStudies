@@ -3,6 +3,7 @@ import multiprocessing as mp
 from subprocess import call
 import warnings
 import numpy as np
+np.random.seed(1337)
 import scipy.io as sio
 import numpy as np
 import keras.backend as K

@@ -26,7 +26,10 @@ ResNet110  v2| 12| 93.15 %|            93.63      %|180
 ResNet164  v2| 18|     - %|            94.54      %|  -
 ResNet1001 v2|111|     - %|            95.08+-.14 %|  -
 """
-
+import numpy as np
+np.random.seed(1337)
+import tensorflow
+tensorflow.random.set_seed(1337)
 import keras
 import numpy as np
 import keras.backend as K
