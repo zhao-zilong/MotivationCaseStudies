@@ -8,4 +8,4 @@ To run the experiment, user can simply run:
 python assessment_*.py
 `
 
-To reproduce the results, the datasets are available on [google drive.](https://drive.google.com/file/d/1VKeYKg_0jsi4Vb6GFTaHuCLHWqwO3eZ6/view?usp=sharing)
+The datasets are available on [google drive.](https://drive.google.com/file/d/1VKeYKg_0jsi4Vb6GFTaHuCLHWqwO3eZ6/view?usp=sharing)
